@@ -6,7 +6,7 @@ build:
 
 # Run the project
 run:
-	go run cmd/main.go
+	go run cmd/server/main.go
 
 # Setup the project
 setup:
