@@ -1,0 +1,35 @@
+# Compiled binary files
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build artifacts
+*.o
+*.a
+
+# Compiled Go executables
+*.out
+*.test
+*.prof
+
+# Logs
+*.log
+
+# OS and IDE specific files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Environment-specific files
+.env
+
+# Compiled files
+/out/
+
+# Temporary files
+*.tmp
+*.temp
